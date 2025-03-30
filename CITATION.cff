@@ -6,5 +6,5 @@ authors:
     orcid: https://orcid.org/0000-0001-7252-264X
 title: "Code for PhD Thesis: Towards a General Theory of Solving for Dependent Type Theory - Formalisations of Monadic Constructions for the use in Solving for Recursive Data"
 version: 1.0.0
-identifiers:
+url: "https://github.com/ArvedFriedemann/PhDCode"
 date-released: 2025-03-30
